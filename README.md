@@ -1,4 +1,4 @@
-# Opa! Eu sou o Lucas Mendonça, e busco aprender front-end!
+# Opa! Eu sou o Lucas Mendonça!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-mendon%C3%A7a-43162074/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leu1607@gmail.com)](mailto:lucasdecarmo@gmail.com)
 
